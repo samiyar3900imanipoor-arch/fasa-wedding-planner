@@ -1,5 +1,3 @@
-import GanttTab from './components/GanttTab.jsx';
-
 export default function App() {
-  return <h1>APP LOADED 🚀</h1>;
+  return <h1>APP IS ALIVE 🚀</h1>
 }
